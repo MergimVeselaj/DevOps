@@ -1,0 +1,5 @@
+Gemaakt tijdens de les, hier is wat ik gevonden had:
+
+Netconf:https://datatracker.ietf.org/doc/html/rfc6241
+Restconf:https://datatracker.ietf.org/doc/html/rfc8040
+Yang:https://datatracker.ietf.org/doc/html/rfc7950
