@@ -4,33 +4,32 @@
   "Boot Device": "/Device/HarddiskVolume1",
   "Installed Physical Memory": "32 GB",
   "Volumes": [
-    {
-      "volume": "Disk 0 Partition 0",  
-      "type": "Simple",
-      "file_system": "NTFS",
-      "status": "Healthy (Boot, Page File, Crash Dump, Primary Partition)",
-      "capacity": "1862.25 GB",
-      "free_space": "536.60 GB",
-      "percent_free": "29%"
-    },
-    {
-      "volume": "Disk 0 Partition 1",
-      "type": "Simple",
-      "file_system": "NTFS",
-      "status": "Healthy (System Partition)",
-      "capacity": "100 MB",
-      "free_space": "100 MB",
-      "percent_free": "100%"
-    },
-    {
-      "volume": "Disk 0 Partition 2",
-      "type": "Simple",
-      "file_system": "NTFS",
-      "status": "Healthy (Primary Partition)",
-      "capacity": "667 MB",
-      "free_space": "667 MB",
-      "percent_free": "100%"
-    }
+      {
+          "volume": "Disk 0 Partition 0",
+          "type": "Simple",
+          "file_system": "NTFS",
+          "status": "Healthy (Boot, Page File, Crash Dump, Primary Partition)",
+          "capacity": "1862.25 GB",
+          "free_space": "536.60 GB",
+          "percent_free": "29%"
+      },
+      {
+          "volume": "Disk 0 Partition 1",
+          "type": "Simple",
+          "file_system": "NTFS",
+          "status": "Healthy (System Partition)",
+          "capacity": "100 MB",
+          "free_space": "100 MB",
+          "percent_free": "100%"
+      },
+      {
+          "volume": "Disk 0 Partition 2",
+          "type": "Simple",
+          "file_system": "NTFS",
+          "status": "Healthy (Primary Partition)",
+          "capacity": "667 MB",
+          "free_space": "667 MB",
+          "percent_free": "100%"
+      }
   ]
 }
-  
