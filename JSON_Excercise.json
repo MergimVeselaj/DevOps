@@ -1,46 +1,36 @@
 {
-    "system_info": {
-      "os_name": "Microsoft Windows 11 Professionnel",
-      "os_version": "10.0.22631 Build 22631",
-      "manufacturer": "ASRock",
-      "model": "A620M-HDV/M.2+",
-      "processor": "AMD Ryzen 5 7600 6-Core Processor, 3801 MHz, 6 cores, 12 logical processors",
-      "bios_mode": "UEFI",
-      "installed_ram": "32 GB",
-      "available_ram": "31.1 GB",
-      "virtual_memory": {
-        "total": "33.1 GB",
-        "available": "33.1 GB"
-      }
+  "OS NAME": "Microsoft Windows 11 Professionnel",
+  "System Name": "ASRock",
+  "Boot Device": "/Device/HarddiskVolume1",
+  "Installed Physical Memory": "32 GB",
+  "Volumes": [
+    {
+      "volume": "Disk 0 Partition 0",  
+      "type": "Simple",
+      "file_system": "NTFS",
+      "status": "Healthy (Boot, Page File, Crash Dump, Primary Partition)",
+      "capacity": "1862.25 GB",
+      "free_space": "536.60 GB",
+      "percent_free": "29%"
     },
-    "disk_management": [
-      {
-        "volume": "C:",
-        "type": "Simple",
-        "file_system": "NTFS",
-        "status": "Healthy (Boot, Page File, Crash Dump, Primary Partition)",
-        "capacity": "1862.25 GB",
-        "free_space": "536.60 GB",
-        "percent_free": "29%"
-      },
-      {
-        "volume": "Disk 0 Partition 1",
-        "type": "Simple",
-        "file_system": "NTFS",
-        "status": "Healthy (System Partition)",
-        "capacity": "100 MB",
-        "free_space": "100 MB",
-        "percent_free": "100%"
-      },
-      {
-        "volume": "Disk 0 Partition 2",
-        "type": "Simple",
-        "file_system": "NTFS",
-        "status": "Healthy (Primary Partition)",
-        "capacity": "667 MB",
-        "free_space": "667 MB",
-        "percent_free": "100%"
-      }
-    ]
-  }
+    {
+      "volume": "Disk 0 Partition 1",
+      "type": "Simple",
+      "file_system": "NTFS",
+      "status": "Healthy (System Partition)",
+      "capacity": "100 MB",
+      "free_space": "100 MB",
+      "percent_free": "100%"
+    },
+    {
+      "volume": "Disk 0 Partition 2",
+      "type": "Simple",
+      "file_system": "NTFS",
+      "status": "Healthy (Primary Partition)",
+      "capacity": "667 MB",
+      "free_space": "667 MB",
+      "percent_free": "100%"
+    }
+  ]
+}
   
